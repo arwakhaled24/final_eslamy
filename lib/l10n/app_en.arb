@@ -1,0 +1,20 @@
+{
+"app_title": "islami",
+"quran": "Quran",
+"hadeth" :"hadth",
+"sepha" :"sepha",
+"radio" : "Radio",
+"sura_name" :"sura name" ,
+"hadeth_name" : "Hadeth name ",
+"language":"language",
+"settings":"settings",
+"english" : "English",
+"arabic":"Arabic",
+"dark":"Dark Them",
+"light" :"Light Them",
+"theming" : "Theming",
+"radio_main_text" : "radio of the Holy Quran",
+"zekr1":"sobhan allah",
+"zekr2" : " alhamd lleah",
+"zekr3" : " allah akbar"
+}
